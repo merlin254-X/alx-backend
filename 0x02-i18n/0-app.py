@@ -15,4 +15,3 @@ def welcome():
 if __name__ == '__main__':
     # Run the app on host 0.0.0.0 to make it accessible externally
     app.run(host='0.0.0.0', port=5000)
-
